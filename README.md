@@ -28,7 +28,7 @@ This code was implemented using Python 3.8 (Anaconda) on Windows 10.
 * Go to  https://www.anaconda.com/products/individual
 * Download version for your system (We used Python 3.8  on 64bit Windows 10 )
 * Install the platform
-* Create a conda environment by typing:  ```conda create –n DGN pip python=3.8 ```
+* Create a conda environment by typing:  ```conda create -n DGN pip python=3.8 ```
 
 ### *Dependency Installattion*
 Copy and paste following commands to install all packages (CPU version)
